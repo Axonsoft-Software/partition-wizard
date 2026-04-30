@@ -1,4 +1,4 @@
-"""# Partition-Wizard
+# Partition-Wizard
 
 ![Version](https://img.shields.io/badge/version-3.1-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
