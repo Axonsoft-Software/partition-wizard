@@ -1,2 +1,0 @@
-# partition-wizard
-Partition-Wizard
